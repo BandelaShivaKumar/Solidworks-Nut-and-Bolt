@@ -4,7 +4,7 @@
 
 This repository contains the CAD models and assembly of a **Nut & Bolt** created using **SolidWorks**. This is part of Project 1 for practicing mechanical design and 3D modeling fundamentals.
 
-My Project Direct Youtube Link - https://youtu.be/FioigvCAlXo
+(My Youtube Channel)Project Direct Youtube Link - https://youtu.be/FioigvCAlXo
 
 ---
 
@@ -51,6 +51,7 @@ Nut-Bolt-SolidWorks/
 ## 📸 Preview
 
 The image below shows the final assembled nut and bolt:
+
 NUT IMAGE - https://github.com/BandelaShivaKumar/Solidworks-Nut-and-Bolt/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-28%20100313.png
 
 BOLT IMAGE - https://github.com/BandelaShivaKumar/Solidworks-Nut-and-Bolt/blob/main/Images%20Step%20by%20Step%20Process/Screenshot%202025-05-12%20113908.png
@@ -70,9 +71,11 @@ Final NUT & BOLT Assembly Image - https://github.com/BandelaShivaKumar/Solidwork
 ## 📬 Contact
 
 For any queries or collaboration:
-- 📧 Email: BandelaLearns@gmail.com
+- Author : Bandela Shiva Kumar
+- 📧 Business Email: BandelaLearns@gmail.com
 - 📷 Instagram: @Shiva__Bandela
 - 💼 LinkedIn: https://linkedin.com/in/BandelaShivaKumar
+- Youtube : https://www.youtube.com/@AnsysLover
 
 ---
 
